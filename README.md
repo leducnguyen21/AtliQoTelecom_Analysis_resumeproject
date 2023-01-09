@@ -11,10 +11,11 @@ Task:
 
 Imagine yourself as Peter Pandey and perform the following task:
 
-Create the comparison report based on the mock-up provided. Please note the mock-up is created by a business user who has minimal idea about dashboarding. Hence, you need to represent the insights in a much better way.
-The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand.
-Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
+1. Create the comparison report based on the mock-up provided. Please note the mock-up is created by a business user who has minimal idea about dashboarding. Hence, you need to represent the insights in a much better way.
+2. The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand.
+3. Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
+
 Other resources Provided:
 
-Metrics List (this contains most of the metrics you need for the dashboard and you might need to create more metrics based on the additional visuals you add to the dashboard)
-Metadata
+1. Metrics List (this contains most of the metrics you need for the dashboard and you might need to create more metrics based on the additional visuals you add to the dashboard)
+2. Metadata
